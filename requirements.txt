@@ -7,3 +7,5 @@ mccabe==0.6.1
 pycodestyle==2.4.0
 pyflakes==2.0.0
 pylama==7.6.5
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
